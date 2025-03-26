@@ -15,6 +15,7 @@ export default class Mediapage{
         this.aliquoting=this.page.locator("//* [text()='Start Aliquoting']")
         this.header_page=this.page.locator("//h2[text()='Aliquot Manager']")
         this.btn_submit=this.page.locator('//*[@type="submit"]')
+        
     
 
 
