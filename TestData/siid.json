@@ -1,0 +1,30 @@
+{
+    "siid_values":{
+        "siid":"105468664",
+        "genotype":"EHCCW",
+        "Explant":"Mature Seed"
+    },
+    "siid_value_3":{
+        "siid":"105468664",
+        "genotype":"EHCCW",
+        "Explant":"Immature Embryo"
+    },
+
+    "siid_values2":{
+        "siid":"105468664",
+        "genotype":"ED85E",
+        "Explant":""
+    },
+    "wrong_val_1":{
+        "siid":"10546866411233",
+        "genotype":"ED85E",
+        "Explant":""
+    },
+    "wrong_val_2":{
+        "siid":"105468664ffdrg",
+        "genotype":"ED85E",
+        "Explant":""
+    }
+
+
+}

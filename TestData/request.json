@@ -1,0 +1,13 @@
+{
+    "ce_request_info":{
+        "cekeycontact": "Church, Laura",
+        "cesite": "Johnston, IA",
+        "projectcode": "DP",
+        "autoclave": "No",
+        "pesticidesallowed":"NEVER",
+        "detasselinginstructions":"NEVER",
+        "harvestpreference":"CE Seed Advancement",
+        "plantstopot": "5",
+        "plantstoharvest": "7"
+    }
+}
